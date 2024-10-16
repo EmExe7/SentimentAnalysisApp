@@ -7,3 +7,12 @@ Key Features<br>
 Data Preprocessing: Cleaned and prepared text data for model training, including tokenization and vectorization.
 Model Training: Implemented hyperparameter tuning, which improved the model's accuracy by 0.60%.
 User Interface: Developed a Streamlit app for users to input reviews and receive real-time sentiment predictions.
+
+##Usage<br>
+To run the Sentiment Analysis app:
+
+Install required packages:
+pip install -r requirements.txt
+
+Start the Streamlit app:
+streamlit run app.py
