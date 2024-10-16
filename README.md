@@ -11,8 +11,8 @@ User Interface: Developed a Streamlit app for users to input reviews and receive
 ##Usage<br>
 To run the Sentiment Analysis app:
 
-Install required packages:
+Install required packages:<br>
 pip install -r requirements.txt
 
-Start the Streamlit app:
+Start the Streamlit app:<br>
 streamlit run app.py
